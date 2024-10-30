@@ -1,0 +1,46 @@
+.hoplix-setting-group {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.hoplix-setting-group .input-text {
+    width: 400px;
+}
+
+.hoplix-setting-group .checkbox-group-item i {
+    color: #777;
+}
+
+.hoplix-submit .woocommerce-save-button {
+    float: left;
+}
+
+.hoplix-submit .loader-wrap {
+    display: inline-block;
+    padding: 4px 10px;
+    float: left;
+}
+
+.hoplix-submit .loader-wrap .loader {
+    display: none;
+    float: left;
+}
+
+.hoplix-submit .loader-wrap .dashicons {
+    font-size: 24px;
+    width: 24px;
+    height: 24px;
+}
+
+.hoplix-submit .loader-wrap .pass,
+.hoplix-submit .loader-wrap .fail {
+    display: none;
+    float: left;
+    line-height: 24px;
+}
+
+.hoplix-setting-group .carrier-type {
+    font-weight: bold;
+    padding: 20px 0;
+    display: block;
+}

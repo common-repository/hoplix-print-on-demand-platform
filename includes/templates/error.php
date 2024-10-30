@@ -1,0 +1,1 @@
+<p class="hoplix-error"><b><?php esc_html_e('Error:', 'hoplix'); ?></b> <?php echo wp_kses_post($error); ?></p>
